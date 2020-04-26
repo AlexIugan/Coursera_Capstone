@@ -1,2 +1,2 @@
-	client_id = "TGEOZBDUTHL04KBSAMAIGJWQJH3C"
-	client_secret = "EJO0QCQKHIM15TAJKLC11"
+client_id = "AAABBBCCC"
+client_secret = "AAABBBCCC"
